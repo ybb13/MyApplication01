@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void init() {
         btn_01.setOnClickListener(v -> {
-            Toast.makeText(this, "hahhah12", Toast.LENGTH_SHORT).show();
+            Toast.makeText(this, "boss", Toast.LENGTH_SHORT).show();
         });
     }
 
